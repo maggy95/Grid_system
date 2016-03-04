@@ -1,0 +1,146 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container h1, .container h3{
+	float: left;
+	clear: left;
+}
+.container p , .search, .button{
+	float: right;
+}
+.button{
+	border:1px solid black;
+	border-radius: 4px;
+	padding-left: 1%;
+	padding-right: 1%;
+	color: black;
+	margin-left: 1%;
+}
+.search{
+	border:2px solid black;
+	padding-left: 1%;
+	margin-left:1%; 
+	border-radius: 4px;
+}
+.tab{
+	background: #d6d6d6;
+	float: left;
+	clear: left;
+	width: 100%;
+	padding-top: 4%;
+	border-radius: 4px;
+}
+.active{
+	padding-left: 2%;
+	color: black;
+}
+.tab a{
+	color: black;
+	font-size: 15px;
+}
+.article{
+	width: 89%;
+	margin: auto;
+	margin-top: 2%;
+}
+.history{
+    background: #929292;
+    color: white;
+        padding: 1px 4% 1px 1%;
+    font-size: 15px; 
+    display: inline-block; 
+}
+.fecha{
+	color: #999999;
+	text-decoration: none;
+	font-size: 10px;
+	font-weight: 100;
+}
+.articulo{
+	font-weight: 600;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+.tag{
+	color: black;
+	float:right;	
+}
+.tag p{
+	float: left;
+}
+.tag i{
+	float: left;
+}
+.white{
+	width: 10%;
+	background: white;
+	color: white;
+}
+.white:hover{
+	text-decoration: none;
+	color: white;
+}
+.lorem1{
+	margin-top: 1%;
+}
+.background{
+	background: #d6d6d6;
+	padding: 2%;
+}
+.watch{
+	border: 1px solid black;
+}
+.background-white{
+	padding: 20%;
+	background: white;
+}
+.icn{
+	background: #E6E6E6;
+    height: 40px;
+    padding: 2%;
+	border-top: 1px solid black;
+}
+
+.circulo{
+	    font-size: 1em;
+    background: black;
+    border-radius: 7px;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 3.5%;
+    position: absolute;
+    margin-left: 40%;
+}
+hr{
+	border:2px solid white;
+	margin-top: 5%;
+	top: 16px;
+}
+.glyphicon-play,.glyphicon-volume-up ,.glyphicon-move{
+	    font-size: 20px;
+	        margin-right: 1%;
+}
+.glyphicon-adjust{
+	margin-top: 5%;
+	position: absolute;
+}
+.cuadrado{
+	padding: 4%;
+	background: #929292;
+	position: relative;
+	float: left;
+	clear: left;
+}
+.info p{
+	font-size: 12px;
+}
+.fecha1{
+	padding-bottom: 3%;
+}
+.info{
+	left: 2%;
+}
+.cuadrado{
+	margin-right: 4%;
+}
